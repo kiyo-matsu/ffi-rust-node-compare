@@ -1,5 +1,11 @@
 # FFIライブラリの比較
 
+Trends
+
+https://npmtrends.com/ffi-napi-vs-ffi-rs-vs-koffi
+
+![image](https://github.com/user-attachments/assets/4f1c3f41-f8e8-4148-bd00-738edb238b59)
+
 -|ffi-napi|ffi-rs|koffi
 ---|---|---|---
 文字列を返す|o|o|o
